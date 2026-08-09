@@ -59,7 +59,7 @@ d:\portfolio\
 ## 📧 Contact & Connect
 
 - **Email**: [bhavanagangavaram1@gmail.com](mailto:bhavanagangavaram1@gmail.com)
-- **LinkedIn**: [linkedin.com/in/bhavanagangavaram](https://www.linkedin.com/in/bhavanagangavaram)
+- **LinkedIn**: [linkedin.com/in/bhavana--g](https://www.linkedin.com/in/bhavana--g/)
 - **GitHub**: [github.com/bhavanagangavaram](https://github.com/bhavanagangavaram)
 
 ---
