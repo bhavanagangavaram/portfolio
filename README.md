@@ -1,73 +1,66 @@
-# 🚀 Bhavana Gangavaram - Developer Portfolio
+# 🚀 Bhavana Gangavaram — Developer Portfolio
 
-A modern, responsive, and high-performance personal portfolio website built with **HTML5, CSS3, Vanilla JavaScript**, dynamic particle effects, glassmorphism UI design, and smooth scroll animations.
+[![Status](https://img.shields.io/badge/Status-Live-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://bhavanagangavaram.github.io/portfolio/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-![Portfolio Banner](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+**A modern, responsive, high-performance developer portfolio website showcasing full-stack applications, projects, tech stack, and experience built with HTML5, CSS3, and Vanilla JavaScript.**
 
 ---
 
 ## 🌐 Live Demo
+
 🔗 **[View Portfolio Live](https://bhavanagangavaram.github.io/portfolio/)**
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
-- 🎨 **Modern Dark Aesthetic**: Custom HSL color system with glassmorphism, vibrant purple/pink gradients, and dynamic glow effects.
-- ⚡ **Interactive Particle Background**: High-fps canvas animation reacting to scrolling and viewport size.
-- 🎯 **Typewriter & Micro-Animations**: Dynamic typewriter effect highlighting core competencies.
-- 📱 **100% Fully Responsive**: Seamless navigation across desktops, tablets, and mobile devices.
-- 🛠️ **Tech Stack Showcase**: Highlighting skills across Frontend, Backend, Databases, and Tools.
-- 💼 **Featured Projects**: Showcase of key projects including an AI Integrated Project, Management Dashboard, EduCredential Blockchain, and more.
-- 📄 **Direct Resume Access**: Integrated Google Drive link for instant resume download.
+- 🎨 **Modern Dark Aesthetic**: Custom HSL color system with glassmorphism UI design, vibrant purple/pink gradients, and dynamic glow effects.
+- ⚡ **Interactive Particle Background**: High-FPS HTML5 canvas animation reacting to window resize and scroll triggers.
+- 🎯 **Typewriter Effect & Micro-Animations**: Dynamic typing animation highlighting core engineering competencies.
+- 📱 **100% Mobile & Desktop Responsive**: Fluid typography and flex/grid breakpoints across all screen sizes.
+- 🛠️ **Interactive Tech Stack Showcase**: Highlighting skills across Frontend, Backend, Databases, and Developer Tools.
+- 💼 **Featured Work Directory**: Direct source code links to all 5 GitHub repositories.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 | Category | Skills & Technologies |
-|---|---|
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React.js, Next.js |
-| **Backend** | Java, OOPs, Servlets, REST APIs, CRUD Operations |
-| **Database & Tools** | MySQL, Data Structures & Algorithms (DSA), Git, GitHub |
-
----
-
-## 📂 Project Structure
-
-```text
-d:\portfolio\
-├── index.html     # Main HTML document with semantic structure
-├── style.css      # Core Design System, layout styles & animations
-├── script.js     # Canvas particles, typewriter, counters & DOM logic
-└── README.md      # Documentation & overview
-```
+| :--- | :--- |
+| **Frontend** | React 19, Next.js, JavaScript (ES6+), HTML5, CSS3, TailwindCSS |
+| **Backend** | Java, Servlets, REST APIs, OOPs Design Principles |
+| **Database & Tools** | MySQL, Data Structures & Algorithms (DSA), Vitest, Git, GitHub |
 
 ---
 
 ## 🌟 Featured Projects
 
-1. 🤖 **AI Integrated Project** *(Main Project - Coming Soon on GitHub)*
-   - A comprehensive AI-powered application for intelligent automation and smart decision-making.
-2. 📊 **[Management Dashboard](https://github.com/bhavanagangavaram/management-dashboard)**
-   - Interactive data visualization and admin interface for efficient management.
-3. 🎓 **[EduCredential Blockchain](https://github.com/bhavanagangavaram/EduCredentialBlockchain)**
-   - Tamper-proof academic credential verification using blockchain technology.
-4. 💬 **[HandsMen Threads](https://github.com/bhavanagangavaram/HandsMenThreadsProj)**
-   - Full-stack discussion forum built with Java, Servlets, MySQL, and CRUD operations.
-5. ⏰ **[Real-Time Clock](https://github.com/bhavanagangavaram/Real-Time-Clock)**
-   - Elegant digital clock featuring dynamic JavaScript DOM updates and animations.
-6. 🛰️ **[Traccar GPS Tracking](https://github.com/bhavanagangavaram/traccar)**
-   - Real-time GPS vehicle and asset monitoring platform.
+1. 📊 **[Management Dashboard](https://github.com/bhavanagangavaram/management-dashboard)** — Enterprise React 19 + Vite single page dashboard with CRUD, column filtering, search, and 67 Vitest unit tests.
+2. 🎓 **[EduCredential Blockchain](https://github.com/bhavanagangavaram/EduCredentialBlockchain)** — SHA-256 cryptographic academic record verification ledger in Java.
+3. 💬 **[HandsMen Threads](https://github.com/bhavanagangavaram/HandsMenThreadsProj)** — Full-stack Java Servlet & MySQL discussion forum.
+4. ⏰ **[Real-Time Clock](https://github.com/bhavanagangavaram/Real-Time-Clock)** — Interactive JS digital clock app with dynamic CSS animations.
+5. 🛰️ **[Traccar GPS Tracking](https://github.com/bhavanagangavaram/traccar)** — Real-time GPS vehicle monitoring and fleet telemetry system in Java.
+
+---
+
+## 📂 Project Structure
+
+```
+d:\portfolio\
+├── index.html     # Main HTML5 document with semantic structure
+├── style.css      # Design system, layout rules & animations
+├── script.js      # Particle canvas, typewriter & interaction logic
+└── README.md      # Repository documentation
+```
 
 ---
 
 ## 📧 Contact & Connect
 
 - **Email**: [bhavanagangavaram1@gmail.com](mailto:bhavanagangavaram1@gmail.com)
-- **GitHub**: [@bhavanagangavaram](https://github.com/bhavanagangavaram)
-- **LinkedIn**: [bhavanagangavaram](https://www.linkedin.com/in/bhavanagangavaram)
+- **LinkedIn**: [linkedin.com/in/bhavanagangavaram](https://www.linkedin.com/in/bhavanagangavaram)
+- **GitHub**: [github.com/bhavanagangavaram](https://github.com/bhavanagangavaram)
 
 ---
 
