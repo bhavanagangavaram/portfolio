@@ -37,7 +37,7 @@
 ## 🌟 Featured Projects
 
 1. 📊 **[Management Dashboard](https://github.com/bhavanagangavaram/management-dashboard)** — Enterprise React 19 + Vite single page dashboard with CRUD, column filtering, search, and 67 Vitest unit tests.
-2. 🤖 **[AI-Integrated E-Voting System](https://github.com/bhavanagangavaram/EduCredentialBlockchain)** — AI biometric face recognition (anti-spoofing) & Ethereum smart contract voting system.
+2. 🤖 **[AI-Integrated E-Voting System](https://github.com/bhavanagangavaram/AI-Integrated-E-Voting-System)** — AI biometric face recognition (anti-spoofing) & Ethereum smart contract voting system.
 3. 💬 **[HandsMen Threads](https://github.com/bhavanagangavaram/HandsMenThreadsProj)** — Full-stack Java Servlet & MySQL discussion forum.
 4. ⏰ **[Real-Time Clock](https://github.com/bhavanagangavaram/Real-Time-Clock)** — Interactive JS digital clock app with dynamic CSS animations.
 5. 🛰️ **[Traccar GPS Tracking](https://github.com/bhavanagangavaram/traccar)** — Real-time GPS vehicle monitoring and fleet telemetry system in Java.
